@@ -71,4 +71,4 @@ The application will be available at `http://localhost:5173`. You can open this 
 
 ## 🧑‍💻 Author
 
-* **Shan Sihogia** - [GitHub Profile](https://github.com/shan09sihogia)
+* **Akash Kumar** - [GitHub Profile](https://github.com/ajakash117))
